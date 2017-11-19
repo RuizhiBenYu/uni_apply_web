@@ -1,0 +1,15 @@
+#inside_navigation{
+    margin-left: 10%;
+    height: 100%;
+}
+
+.affix{
+    width:18%;
+}
+
+
+@media(max-width:750px){
+    .affix{
+        display: none;
+    }
+}

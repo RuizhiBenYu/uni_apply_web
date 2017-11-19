@@ -1,0 +1,58 @@
+body{
+    background: #282828;
+    text-align: center;
+}
+
+section{
+    width:80%;
+    margin: 2em 0em;
+    padding: 2em 0em;
+    background: #212121;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, label {
+    color: #E3E3E3;
+}
+
+
+.container{
+    width: 100%;
+}
+
+/*nav bar*/
+.navbar-brand{
+    padding: 0em 2em;
+}
+
+.navbar-inverse, .panel-default{
+    border-color: #212121;
+}
+
+#navigation{
+    width:100%;
+    margin: 0em 0em;
+    padding: 0em 0em;
+    background: #212121;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*nav bar end*/
+
+
+/*slider*/
+#slider{
+    width:100%;
+    margin: 0em 0em;
+    padding: 0em 0em;
+    background: #212121;
+    margin-left: auto;
+    margin-right: auto;
+}
+/*slider end*/
+
+.panel, .panel-body{
+    background-color: #212121;
+}

@@ -1,0 +1,136 @@
+.navbar-brand {
+    float: left;
+    height: 80px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+
+.navbar-header-head{
+    height:70px;
+    font-size: 20px;
+}
+
+#navbar-left{
+    width: 15%;
+}
+.header-right{
+    width: 75%;
+    float: right;
+}
+
+.navbar-header-head{
+    font-size: 25px;
+}
+
+.active {
+    /*height: 70px;*/
+}
+
+.scroll{
+    /*height: 70px;*/
+}
+/*.container{*/
+    /*text-align: center;*/
+/*}*/
+
+/*.flex-nav-prev{*/
+/*display: none;*/
+/*}*/
+
+/*.flex-nav-next{*/
+/*display: none;*/
+/*}*/
+
+.flex-prev{
+    left: 0px;
+    top:0%;
+ }
+
+.flex-next{
+    right: 0px;
+    top:0%;
+}
+
+.banner-w3lstext{
+    font-size: 5px;
+}
+
+
+#background{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.Service_description{
+    text-align: center;
+    /*height:500px;*/
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+    background: #333333;
+}
+
+.Application_pic {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.description {
+    float: left;
+    width:33%;
+    /*height:300PX;*/
+}
+
+.navbar_button{
+    width: 140px;
+    text-align: center;
+}
+
+
+/*.overlay {*/
+    /*position: relative;*/
+    /*!* margin-left: 8%; *!*/
+    /*top: -100px;*/
+    /*bottom: 0;*/
+    /*left: 0;*/
+    /*right: 0;*/
+    /*height: 80%;*/
+    /*width: 100%;*/
+    /*opacity: 0;*/
+    /*transition: 1s ease;*/
+    /*background-color: #333333;*/
+/*}*/
+
+/*.description:hover .overlay {*/
+    /*opacity: 1;*/
+/*}*/
+
+/*.description_assignment:hover .overlay {*/
+    /*opacity: 1;*/
+/*}*/
+
+.text {
+    color: white;
+    font-size: 2.5em;
+    width: 75%;
+    margin-left: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    /*position: absolute;*/
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*transform: translate(-50%, -50%);*/
+    /*-ms-transform: translate(-50%, -50%);*/
+}
+
+.description_assignment{
+    float: left;
+    width: 33%;
+    /*height: 300px;*/
+    margin-left: 12%;
+}
